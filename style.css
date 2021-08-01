@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+    background-color: aquamarine;
+}
+.container{
+    border: 5px solid black;
+    box-shadow: blueviolet;
+    border-radius: 20px;
+    width: 500px;
+    margin-left: 30%;
+    margin-top: 2%;
+    padding: 100px;
+    background-color: pink;
+}
+input{
+    width: 400px;
+    height: 30px;
+    font-size: 20px;
+}
+label{
+    font-size: 25px;
+
+}
+h1{
+    color: plum;
+}
+button{
+    width: 150px;
+    height: 40px;
+    font-size: 20px;
+    border-radius: 20px;
+    background-color: red;
+}
+#start{
+    margin-top: 350px;
+}
